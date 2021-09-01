@@ -30,7 +30,7 @@ Tech is my passion since my childhood. Every broken stuff, such as radio or a ce
             º Precision
             º Step-by-step work (the screws disappeared or appeared)
 
-And ALWAYS finished what I have started.
+And  I ALWAYS finish what I start.
 
 
 This curious child is a grown-up right now. Full of passion for knowlegde and facts. I am constantly learning , cultural knowledge or languages, or acquiring problem solving skills. My mind never stops, neither my hunger to absorbe all the possibilities the world gives us every day.
