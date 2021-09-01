@@ -1,7 +1,8 @@
 ### Hi there 👋
 [![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
 - 🔭 I’m currently looking for a job as junior web developer full stack
-- I speak two languages properly english and spanish witch I´m native Holaaa :wave::grin: but I was learning German, Russian, Portuguese and Lithuanian
+- I speak two languages properly english and spanish witch I´m native Holaaa :wave::grin: but I was learning German, Russian, Portuguese and Lithuanian.
+
 My pasion about tech is from my childhood, I was curious about how the things work inside and I started to open broken stuff and fixed it, that help me to understand much better how everything works and give the oppotunities to improve several skills:
     -  pathience
     -  endurance
