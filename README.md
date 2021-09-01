@@ -30,14 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- Programming languages and tools
-JavaScript HTML5 CSS3 Java
 
-React NodeJS Express.js Vue.js NuxtJS Vuetify Bootstrap
-
-Docker Git ESLint Postman MongoDB Postgres MySQL Firebase Heroku Netlify
-
-Windows 10 Linux Android
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&langs_count=8)](https://github.com/logandsg/github-readme-stats)
 
