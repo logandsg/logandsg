@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
+[![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&theme=onedark&langs_count=10)](https://github.com/logandsg/github-readme-stats)
 - 🔭 I’m currently looking for a job as junior web developer full stack
 - I speak two languages properly english and spanish witch I´m native Holaaa :wave::grin: but I was learning German, Russian, Portuguese and Lithuanian.
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Logandsg's GitHub stats](https://github-readme-stats.vercel.app/api?username=logandsg&show_icons=true)
+
 
 
 
