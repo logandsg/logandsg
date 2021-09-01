@@ -5,6 +5,7 @@
 
 [![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&theme=onedark&langs_count=10)](https://github.com/logandsg/github-readme-stats)
+
 Tech is my passion since my childhood. Every broken stuff, such as radio or a cellphone, never passed throug my eyes. I inspected then inside and out, feeding the little beast of curiosity living inside me. I broke and fixed things on the way growing and improoving skills as:
 
             º Patience
