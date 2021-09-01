@@ -28,7 +28,7 @@ Tech is my passion since my childhood. Every broken stuff, such as radio or a ce
             º Endurance
             º Passion
             º Precision
-            º Step-by-step work (the screws disappear or appear)
+            º Step-by-step work (the screws disappeared or appeared)
 
 And ALWAYS finished what I have started.
 
