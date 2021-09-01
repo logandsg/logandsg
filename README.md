@@ -78,7 +78,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Programs and tools: 
 
 
 
