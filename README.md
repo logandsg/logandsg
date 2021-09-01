@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 [![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&count_private=true&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&layout=compact&langs_count=8)](https://github.com/logandsg/github-readme-stats)
+
+[![Logandsg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=logandsg)](https://github.com/logandsg/github-readme-stats)
+
