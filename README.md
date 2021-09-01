@@ -17,7 +17,8 @@
 
 - 🔭 Currently I am looking for a job as a Full-Stack Junior Web Developer.
 
-- Apart from Spanish 🇪🇸, I speak fluent English 🇬🇧 ! However, I have knowlegde in German 🇩🇪, Russian , Portuguese 🇵🇹 and Lithuanian too.
+- Apart from Spanish 🇪🇸, I speak fluent English 🇬🇧 ! However, I have knowlegde in German 🇩🇪, Russian , Portuguese 🇵🇹 and Lithuanian ![image](https://user-images.githubusercontent.com/83079926/131692827-64b0c756-08a5-4c0f-b777-8eb04b0b8e4b.png)
+too.
 
 [![Logandsg's github stats](https://github-readme-stats.vercel.app/api?username=logandsg&show_icons=true&theme=onedark&hide_rank=false)](https://github.com/logandsg/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&theme=onedark&langs_count=10)](https://github.com/logandsg/github-readme-stats)
