@@ -37,7 +37,7 @@ This curious child is a grown-up right now. Full of passion for knowlegde and fa
 
 
 My restlessness led me to obtain working experience in various fields. And when I say various , I mean it. I went from working in wharehouses, hotels, clothing stores to planning events and managing Erasmus+ Projects. I have worked in pretty much all sectors possible and I am proud of it, because it made me the person I am today, and gave the knowledge and experience I have.
-So I believe that I am a perfect fit for any company that is about to hire me, Just do it and you will see
+So I believe that I am a perfect fit for any company that is about to hire me, Just do it and you will see :wink:
     
 Programs and tools:
 
