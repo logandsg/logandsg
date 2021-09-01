@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&layout=compact&langs_count=8)](https://github.com/logandsg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logandsg&langs_count=8)](https://github.com/logandsg/github-readme-stats)
 
 <!--[![Logandsg's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=logandsg)](https://github.com/logandsg/github-readme-stats)-->
 
