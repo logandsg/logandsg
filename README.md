@@ -9,6 +9,7 @@ My pasion about tech is from my childhood, I was curious about how the things wo
     -  precision
     -  work by steps
     -  never leave jobs not done(the screws disappear)
+    
 I have a big curiosity about the world in general and I'm like a sponge always absorving all the knowlegde about facts in the history or whatever is interesting for me, that allow me to think creative and see the problems from differents angles.
 
 My work expirience is from wharehouse to managing of events, from cleaning to manage groups of 100 people; I can say that I was working almost in all sectors and places, this is giving me the possibility to emphatise with all levels in the workplace from the cleaners until the bosses because I believe that every person in a company have something to say about it and in the end sometimes the little details always make the different between a normal company and a great place to work.
