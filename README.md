@@ -1,8 +1,17 @@
+
+
+
 ### Holaaaa there 👋
 
 ![](https://www.codewars.com/users/logandsg/badges/micro)
 
+### <p  align="center">📫 Contact me :</p>
 
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/danielsavgem/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:danielgemmerli@gmail.com?subject=Hello%20Bruno,%20I%20contact%20you%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/Logan_dsg#7072"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 - My name is Daniel Saavedra Gemmerli, I am Spanish, but I prefer to be called Canarian, because  I am one-from head to toes :stuck_out_tongue_winking_eye:
 
@@ -30,7 +39,7 @@ This curious child is a grown-up right now. Full of passion for knowlegde and fa
 My restlessness led me to obtain working experience in various fields. And when I say various , I mean it. I went from working in wharehouses, hotels, clothing stores to planning events and managing Erasmus+ Projects. I have worked in pretty much all sectors possible and I am proud of it, because it made me the person I am today, and gave the knowledge and experience I have.
 So I believe that I am a perfect fit for any company that is about to hire me, Just do it and you will see
     
-Tools and Programs
+Programs and tools:
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
