@@ -13,8 +13,8 @@
   <a href="https://discordapp.com/users/Logan_dsg#7072"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-### My name is Daniel Saavedra Gemmerli, I am Spanish, but I prefer to be called Canarian :canary_islands: , because  I am one-from head to toes :stuck_out_tongue_winking_eye:. 
-### Apart from Spanish 🇪🇸, I speak fluent English 🇬🇧 !  However, I have knowlegde in German 🇩🇪, Russian :ru: , Portuguese 🇵🇹 a bit of  Lithuanian :lithuania: and Icelandic :iceland: too.
+### My name is Daniel Saavedra Gemmerli, I am Spanish, but I prefer to be called Canarian 🇮🇨 , because  I am one-from head to toes :stuck_out_tongue_winking_eye:. 
+### Apart from Spanish 🇪🇸, I speak fluent English 🇬🇧 !  However, I have knowlegde in German 🇩🇪, Russian 🇷🇺 , Portuguese 🇵🇹 a bit of  Lithuanian 🇱🇹 and Icelandic 🇮🇸 too.
 ### I was living in Lithuania :lithuania: during my Erasmus practice and in Iceland :iceland: for adventures and work. Now I am living in Tenerife, Canary Islands
 
 ### 🔭 Currently I am looking for a job as a Full-Stack Junior Web Developer.
